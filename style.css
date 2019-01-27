@@ -68,6 +68,10 @@ h6 {
     line-height: 1.2;
 }
 
+.logo-Digilarm {
+    max-width: 190px;
+}
+
 .section_padding_100 {
     padding-top: 100px;
     padding-bottom: 100px;
@@ -240,7 +244,7 @@ p {
 
 .section-heading > h2 {
     font-weight: 300;
-    color: #5b32b4;
+    color: #fb4e09;
     font-size: 48px;
     margin: 0;
 }
@@ -559,7 +563,7 @@ p {
 
 .single-special > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #fb4e09;
 }
 
 .single-icon {
@@ -568,7 +572,7 @@ p {
 
 .single-special > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #fb4e09;
     margin-bottom: 15px;
 }
 
@@ -583,7 +587,7 @@ p {
 }
 
 .special_description_content > h2 {
-    color: #5b32b4;
+    color: #fb4e09;
     font-size: 48px;
     margin-bottom: 30px;
 }
@@ -687,7 +691,7 @@ p {
 
 .single-feature > h5 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #fb4e09;
 }
 
 .single-feature > p {
@@ -867,7 +871,7 @@ p {
 }
 
 .single-price-plan .package-plan > h5 {
-    color: #5b32b4;
+    color: #fb4e09;
     font-size: 18px;
 }
 
@@ -928,7 +932,7 @@ p {
 -------------------------- */
 
 .clients-feedback-area .client-name > h5 {
-    color: #5b32b4;
+    color: #fb4e09;
     font-size: 22px;
     margin-top: 5px;
 }
@@ -1072,7 +1076,7 @@ p {
 }
 
 .get-started-button > a:hover {
-    background: #5b32b4;
+    background: #fb4e09;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -1100,7 +1104,7 @@ p {
 
 .member-text > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #fb4e09;
 }
 
 .member-text > p {
@@ -1177,7 +1181,7 @@ p {
 .address-text > p > span,
 .phone-text > p > span,
 .email-text > p > span {
-    color: #5b32b4;
+    color: #fb4e09;
 }
 
 .footer-contact-area .line-shape {
@@ -1218,7 +1222,7 @@ p {
 }
 
 .btn.submit-btn:hover {
-    background: #5b32b4;
+    background: #fb4e09;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -1238,7 +1242,7 @@ p {
 -------------------------- */
 
 .footer-text > h2 {
-    color: #5b32b4;
+    color: #fb4e09;
     font-size: 72px;
     font-weight: 700;
 }
