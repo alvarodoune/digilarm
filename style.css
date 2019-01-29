@@ -72,6 +72,11 @@ h6 {
     max-width: 190px;
 }
 
+.products-images {
+    width: 100%;
+    height: 100%;
+}
+
 .section_padding_100 {
     padding-top: 100px;
     padding-bottom: 100px;
@@ -1045,12 +1050,7 @@ p {
 -------------------------- */
 
 .our-monthly-membership {
-    background: #a865e1;
-    background: -webkit-linear-gradient(to left, #7873ed, #a865e1);
-    background: -webkit-linear-gradient(right, #7873ed, #a865e1);
-    background: -webkit-gradient(linear, right top, left top, from(#7873ed), to(#a865e1));
-    background: -o-linear-gradient(right, #7873ed, #a865e1);
-    background: linear-gradient(to left, #7873ed, #a865e1);
+    background-image: linear-gradient(to bottom, #fb4e09, #fb5e04, #fb6c02, #fb7a03, #fb8609);
 }
 
 .membership-description > h2 {
