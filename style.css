@@ -861,6 +861,10 @@ p {
 :: 9.0 Pricing Plan Area CSS
 -------------------------- */
 
+h2.service-title {
+    color: #721c1c !important;
+}
+
 .pricing-plane-area {
     background: #f5f9fc;
 }
